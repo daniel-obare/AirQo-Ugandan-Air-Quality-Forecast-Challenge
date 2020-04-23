@@ -1,4 +1,4 @@
-# AirQo-Ugandan-Air-Quality-Forecast-ChallengeAirQo-Ugandan-Air-Quality-Forecast-Challenge-solution
+# AirQo-Ugandan-Air-Quality-Forecast-Challenge-solution
 solution with an rmse of 38.69183
 
 
